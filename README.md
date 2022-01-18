@@ -20,3 +20,7 @@ Algorithm works in three steps:
 ANSI C language, GTK and Cairo libraries for GUI.
 
 There is a lot of trigonometry and geometry calculation.
+
+## Demo
+
+![Screen capture showing interface 1](screenshots/Screenshot-0.png)
