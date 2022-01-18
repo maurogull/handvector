@@ -24,3 +24,9 @@ There is a lot of trigonometry and geometry calculation.
 ## Demo
 
 ![Screen capture showing interface 1](screenshots/Screenshot-0.png)
+
+![Screen capture showing interface 2](screenshots/Screenshot-1.png)
+
+![Screen capture showing interface 3](screenshots/Screenshot-2.png)
+
+![Screen capture showing interface 4](screenshots/Screenshot-3.png)
