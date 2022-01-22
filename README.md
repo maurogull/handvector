@@ -1,19 +1,18 @@
 # handvector
 
-With this tool I try to find bezier curves from hand written strokes, i.e. "vectorize".
+With this tool I try to find Bézier curves from hand written strokes, i.e. "vectorize".
 This program is supposed to be used with a drawing tablet (Wacom...).
 
 At the time of this development I was studying typography (typeface) design. Initial paper drawings are key to this design process.
 
-Bezier curves used in typefaces have to follow certain criteria, in order to be later rasterized on a screen properly.
-This program implement that rules.
+Bézier curves used in typefaces should follow certain criteria in order to be later rasterized on a screen properly. This program implement those rules.
 
 ## Design
 
-Algorithm works in three steps:
+The algorithm works in three steps:
 1. Extract points from a raw drawing (bitmap) on a canvas
-2. Discover paths from step 1 points list
-3. Discover nodes in step 2 strokes list and proceed to estimate beziers
+2. Discover paths from step 1 points-list
+3. Discover nodes from step 2 strokes-list and proceed to estimate Béziers
 
 ## Techologies
 
